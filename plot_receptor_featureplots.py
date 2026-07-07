@@ -1,3 +1,4 @@
+#05: Loads neuron-only dataset and produces cleaned-up figures. 
 import scanpy as sc
 import matplotlib.pyplot as plt
 import os
