@@ -1,3 +1,4 @@
+#03: Loads the neuron-only dataset and produces Leiden cluster figures. 
 import scanpy as sc
 
 adata = sc.read_h5ad("SCG_Mapps_fullgenes_processed.h5ad")
@@ -10,4 +11,4 @@ sc.pl.umap(
     save="_clusters.png"
 )
 
-#Used to create intermediary leiden plots
+
