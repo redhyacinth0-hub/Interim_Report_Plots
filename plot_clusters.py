@@ -10,4 +10,4 @@ sc.pl.umap(
     save="_clusters.png"
 )
 
-#used to create intermediary leiden plots
+#Used to create intermediary leiden plots
