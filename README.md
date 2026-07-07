@@ -1,6 +1,6 @@
 # Interim_Report_Plots
 Data source:
-GSE175421, SCG Mapps dataset from GEO.
+GSE175421, SCG Mapps dataset from GEO. 
 
 Input files:
 GSM5333151_SCG_rep1.dge.txt
