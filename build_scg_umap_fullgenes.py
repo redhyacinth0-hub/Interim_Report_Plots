@@ -1,4 +1,4 @@
-#01
+#01: Reads GEO files and performs QC, normalization, PCA, neighbors, Leiden clustering, and UMAP. 
 import scanpy as sc
 import anndata as ad
 import scipy.sparse as sp
