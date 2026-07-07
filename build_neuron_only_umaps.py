@@ -1,3 +1,4 @@
+#02: Loads the data from step 1 and selects only sympathetic neurons. Recomputes neuron-only UMAP. 
 import scanpy as sc
 import matplotlib.pyplot as plt
 import os
