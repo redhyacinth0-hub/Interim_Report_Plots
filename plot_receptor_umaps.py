@@ -1,3 +1,4 @@
+#04: Loads neuron-only dataset and produces receptor UMAPs using viridis (default Scanpy style). 
 import scanpy as sc
 import matplotlib.pyplot as plt
 from pathlib import Path
