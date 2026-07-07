@@ -15,9 +15,13 @@ conda activate sc
 pip install scanpy anndata pandas numpy scipy matplotlib harmonypy igraph leidenalg
 
 Run order:
-build_scg_umap_fullgenes.py        ← Step 1
-build_neuron_only_umaps.py         ← Step 2
-plot_clusters.py                   ← Step 3
-plot_receptor_umaps.py             ← Step 4
-plot_receptor_featureplots.py      ← Step 5
+build_scg_umap_fullgenes.py        
+
+build_neuron_only_umaps.py        
+
+plot_clusters.py                   
+
+plot_receptor_umaps.py            
+
+plot_receptor_featureplots.py      
 
