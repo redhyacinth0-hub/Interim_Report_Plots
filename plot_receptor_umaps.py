@@ -18,7 +18,7 @@ for gene in genes:
         color=gene,
         use_raw=True,
         cmap="viridis",
-        size=12,
+        size=20,
         frameon=False,
         vmax="p99",
         show=False,
