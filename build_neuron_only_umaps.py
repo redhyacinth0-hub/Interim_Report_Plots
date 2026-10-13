@@ -5,7 +5,7 @@ import os
 
 adata = sc.read_h5ad("SCG_Mapps_fullgenes_processed.h5ad")
 
-# TH/DBH-positive sympathetic neuron clusters from your Leiden plot
+# TH/DBH-positive sympathetic neuron clusters from Leiden plot
 neuron_clusters = ["1", "2", "3", "4"]
 
 neurons = adata[adata.obs["leiden"].isin(neuron_clusters)].copy()
